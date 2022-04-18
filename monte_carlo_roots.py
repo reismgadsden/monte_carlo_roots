@@ -5,7 +5,7 @@ it will find where x is undefined in these cases.
 
 author: Reis Gadsden
 version: 17/4/22
-github:
+github: https://github.com/reismgadsden/monte_carlo_roots
 
 class: CS-5531 @ Appalachian State University
 instructor: Dr. Mohammad Mohebbi
